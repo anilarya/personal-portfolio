@@ -61,10 +61,10 @@ export const data = [
     description: "An Engineering Architecture model of inner sunconsious sublte matter i.e mind",
     link: 'https://github.com/anilarya/mind-research/blob/main/src/assets/Engineering%20Architecture%20model%20of%20Inner%20Sub-Conscious%20subtle%20matter%20-%20Google%20Docs.pdf',
     images: [
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind1.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind2.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind3.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind3.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind4.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind4.png'   
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-1.png',
+      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png',
+      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png',
+      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png'   
        }, 
     ],
     isExperiment: true,
