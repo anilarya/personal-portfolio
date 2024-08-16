@@ -36,7 +36,7 @@ export const data = [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-4.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-4.png' },
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-5.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-5.png' },
     ],
-    isExperiment: true,
+    isExperiment: false,
   },
   {
     title: "Omnipresent JS Book : Authored by me",
@@ -45,6 +45,6 @@ export const data = [
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/book.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/book.png' }, 
     ],
-    isExperiment: true,
+    isExperiment: false,
   }
 ];
