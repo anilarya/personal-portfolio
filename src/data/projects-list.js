@@ -26,24 +26,33 @@ export const data = [
     isExperiment: false,
   },  
   {
-    title: "MCQ website with firebase integration",
-    description: "MCQ website having user and admin dashabord , integrated with firebase database using CRUD operations and Google Login",
-    link: 'https://github.com/anilarya/mcq-website-react',
-    images: [
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-1.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-1.png' },
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-2.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-2.png' },
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-3.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-3.png' },
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-4.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-4.png' },
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-5.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-5.png' },
-    ],
-    isExperiment: false,
-  },
-  {
     title: "Omnipresent JS Book : Authored by me",
     description: "Omnipresent JS Programming and Principles: A Comprehensive Guide for Software Development with multiple LLDs and HLDs",
     link: 'https://omnipresent-js.netlify.app/external/pdfjs-2.1.266-dist/web/viewer.html',
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/book.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/book.png' }, 
+    ],
+    isExperiment: false,
+  },
+  {
+    title: "MCQ website with firebase integration",
+    description: "MCQ website having user and admin dashabord , integrated with firebase database using CRUD operations and Google Login",
+    link: 'https://om-mcq.netlify.app/',
+    images: [
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-1.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-2.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-3.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-3.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-4.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-4.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-5.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-5.png' },
+    ],
+    isExperiment: false,
+  },
+  {
+    title: "Real time Weather forecast application",
+    description: "Waeather forecase app which can be filtered based on city, city id, cordinates etc. (Default is Bangalore)",
+    link: 'https://omnipresent-js.netlify.app/external/pdfjs-2.1.266-dist/web/viewer.html',
+    images: [
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png' }, 
     ],
     isExperiment: false,
   }
