@@ -50,7 +50,7 @@ export const data = [
   {
     title: "Real time Weather forecast application",
     description: "Waeather forecase app which can be filtered based on city, city id, cordinates etc. (Default is Bangalore)",
-    link: 'https://omnipresent-js.netlify.app/external/pdfjs-2.1.266-dist/web/viewer.html',
+    link: 'https://atmoscast.netlify.app/',
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png' }, 
     ],
