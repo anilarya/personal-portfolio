@@ -27,7 +27,7 @@ export const data = [
   },  
   {
     title: "MCQ website with firebase integration",
-    description: "An experimental MCQ website having user and admin dashabord , integrated with firebase database using CRUD operations and Google Login",
+    description: "MCQ website having user and admin dashabord , integrated with firebase database using CRUD operations and Google Login",
     link: 'https://github.com/anilarya/mcq-website-react',
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/quiz-1.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/quiz-1.png' },
@@ -40,7 +40,7 @@ export const data = [
   },
   {
     title: "Omnipresent JS Book : Authored by me",
-    description: "Key and Basic principles of JS and its usage in daily life",
+    description: "Omnipresent JS Programming and Principles: A Comprehensive Guide for Software Development with multiple LLDs and HLDs",
     link: 'https://omnipresent-js.netlify.app/external/pdfjs-2.1.266-dist/web/viewer.html',
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/book.png', thumbnail: 'https://raw.githubusercontent.com/atul-mourya/personal-portfolio/main/src/assets/experimental/book.png' }, 
