@@ -55,6 +55,16 @@ export const data = [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/weather-1.png' }, 
     ],
     isExperiment: false,
+  }, 
+  {
+    title: "Published Tech Article : Optimizing page speed of one of complex product in IT industries",
+    description: "Bringing in a 12x performance improvement to the Livspace 3D Tool",
+    link: 'https://blog.livspace.io/bringing-in-a-12x-performance-improvement-to-the-livspace-3d-tool-599b47264f17',
+    images: [
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/spped-1.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/spped-2.png' }
+    ],
+    isExperiment: false,
   },
   {
     title: "White Paper - How internal subtle mind works??",
@@ -62,9 +72,9 @@ export const data = [
     link: 'https://github.com/anilarya/mind-research/blob/main/src/assets/Engineering%20Architecture%20model%20of%20Inner%20Sub-Conscious%20subtle%20matter%20-%20Google%20Docs.pdf',
     images: [
       { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-1.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png',
-      image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png'   
+        image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-2.png',
+        image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-3.png',
+        image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/mind-4.png'   
        }, 
     ],
     isExperiment: true,
