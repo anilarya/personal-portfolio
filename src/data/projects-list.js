@@ -61,8 +61,17 @@ export const data = [
     description: "Bringing in a 12x performance improvement to the Livspace 3D Tool",
     link: 'https://blog.livspace.io/bringing-in-a-12x-performance-improvement-to-the-livspace-3d-tool-599b47264f17',
     images: [
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/spped-1.png' },
-      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/spped-2.png' }
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-1.png' },
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-2.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/speed-2.png' }
+    ],
+    isExperiment: false,
+  },
+  {
+    title: "Capital City temperature heat map on India map",
+    description: "Integrated India topo-json to show cities based on user selection",
+    link: 'https://heat-climax.netlify.app',
+    images: [
+      { image: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/india-1.png', thumbnail: 'https://raw.githubusercontent.com/anilarya/personal-portfolio/main/src/assets/experimental/india-1.png' },
     ],
     isExperiment: false,
   },
